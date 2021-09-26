@@ -1,0 +1,132 @@
+  table.table-plans {
+    font-family: Calibri, Helvetica, sans-serif;
+    width: 100%;
+    text-align: center;
+  }
+  table.table-plans th {
+    padding: 4px 4px;
+  }
+  table.table-plans td {
+    padding: 10px 2px;
+  }
+  table.table-plans thead tr {
+    background: #9D9FA1;
+  }
+  table.table-plans thead th {
+    font-size: 13px;
+    font-weight: normal;
+    color: #FFFFFF;
+    text-align: center;
+  }
+  table.table-plans tbody td {
+    font-size: 13px;
+    color: #8F9195;
+  }
+  table.table-plans tbody tr {
+    background: #DCDDDF;
+  }
+
+  .title-18{
+    font-family: Calibri;
+    font-size: 18px;
+    color: #1D74BA;
+    font-weight: bold;
+    line-height: 0.1;
+  }
+  .title-16{
+    font-family: Calibri;
+    font-size: 16px;
+    color: #1D74BA;
+    font-weight: bold;
+    line-height: 0.1;
+  }
+  .title-14{
+    font-family: Calibri;
+    font-size: 14px;
+    color: #1D74BA;
+    font-weight: bold;
+    line-height: 0.1;
+  }
+  .title-14-black{
+    font-family: Calibri;
+    font-size: 14px;
+    color: #000000;
+    font-weight: normal !important;
+    line-height: 0.1;
+  }
+  .title-8{
+    font-family: Calibri;
+    font-size: 10.5px;
+  }
+  .title-10{
+    font-family: Calibri;
+    font-size: 10.5px;
+    line-height: 0.1;
+  }
+  .text-center{
+    font-family: Calibri;
+    text-align: center;
+  }
+
+  .col2 {width:16.66%;float:left;}
+  .col4 {width:33.33%;float:left;}
+  .col5 {width:41.66%;float:left;}
+  .col6 {width:50%;float:left;}
+  .col7 {width:58.33%;float:left;}
+  .col8 {width:66.66%;float:left;}
+  .col12 {width:100%;float:left;}
+
+  .key-style{
+    font-weight: bold;
+    font-size: 13px;
+    font-family: Calibri;
+  }
+  .value-style{
+    font-size: 13px;
+    font-family: Calibri;
+  }
+
+  .key-style-12{
+    font-weight: bold;
+    font-size: 12px;
+    font-family: Calibri;
+  }
+  .value-style-12{
+    font-size: 12px;
+    font-family: Calibri;
+  }
+
+
+  table.beneficiaryTable {
+    font-family: Calibri, Helvetica, sans-serif;
+    border-collapse: collapse;
+    table-layout: fixed;
+    text-align: center;
+    width: 100%;
+  }
+  table.beneficiaryTable thead {
+    background: #FFFFFF;
+  }
+  table.beneficiaryTable thead th {
+    font-size: 20px;
+    font-weight: bold;
+    color: #171717;
+    text-align: center;
+    border-collapse: collapse;
+    border:1px solid #000000;
+    padding: 10px 10px;
+  }
+  table.beneficiaryTable tbody td {
+    font-size: 16px;
+    color: #000000;
+    border-collapse: collapse;
+    border: 1px solid #000000;
+    padding: 10px 10px;
+  }
+  table.beneficiaryTable tfoot td {
+    font-size: 16px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background: #2E74B5;
+    padding: 10px 10px;
+  }
